@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
         builder: (ctx, auth, _) => MaterialApp(
               title: 'DNA',
               theme: ThemeData(
-                primarySwatch: Colors.purple,
+                primarySwatch: Colors.red,
                 accentColor: Colors.deepOrange,
                 fontFamily: 'Lato',
                 pageTransitionsTheme: PageTransitionsTheme(
